@@ -13,3 +13,4 @@ deal conflict dev with master
 >>>>>>> dev
 deal conflict ok!
 no-merged
+stash 1
