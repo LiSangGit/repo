@@ -6,4 +6,9 @@ under the GPL
 merge dev
 merge dev 2
 merge dev 3
+<<<<<<< HEAD
 deal conflict dev and master
+=======
+deal conflict dev with master
+>>>>>>> dev
+deal conflict ok!
