@@ -13,4 +13,9 @@ deal conflict dev with master
 >>>>>>> dev
 deal conflict ok!
 no-merged
+<<<<<<< Updated upstream
 stash 3
+=======
+stash 1
+>>>>>>> Stashed changes
+solve merge
