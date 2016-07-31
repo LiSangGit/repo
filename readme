@@ -6,3 +6,4 @@ under the GPL
 merge dev
 merge dev 2
 merge dev 3
+deal conflict dev and master
